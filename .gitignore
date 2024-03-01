@@ -21,6 +21,7 @@
 *.dll
 
 # Fortran module files
+# ag: since when did fortran come here???
 *.mod
 *.smod
 
